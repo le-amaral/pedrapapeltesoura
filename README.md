@@ -1,16 +1,14 @@
 # pedrapapeltesoura
 
-A new Flutter project.
+Apliacativo JOKENPÔ:  Nesse jogo o usuário vai disputar contra o aplicativo e haverá um placar indicando quem fez mais pontos até determinado momento.
+---
+Características
+* Configuração e utilização de imagens no projeto de aplicativo.
+* Utilização de diversos widgets para a composição do leiaute: row, column, padding, container, etc.
+* Utilização de aleatoriedade (números randômicos) durante o jogo.
+* Modificação do estado do aplicativo e aplicação de alterações no leiaute dinamicamente.
+---
+Leonarda Correia Amaral - 124100001
 
-## Getting Started
+Funcionamento
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
