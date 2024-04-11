@@ -12,6 +12,11 @@ Leonarda Correia Amaral - 124100001
 
 Funcionamento
 
+Início
 ![Incício](https://github.com/le-amaral/pedrapapeltesoura/blob/main/prints/inicio.png)
+
+Vencedor
 ![Vencedor](https://github.com/le-amaral/pedrapapeltesoura/blob/main/prints/vencedor.png)
+
+Empate
 ![Empate](https://github.com/le-amaral/pedrapapeltesoura/blob/main/prints/empate.png)
