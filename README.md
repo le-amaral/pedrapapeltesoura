@@ -12,3 +12,6 @@ Leonarda Correia Amaral - 124100001
 
 Funcionamento
 
+![Incício](https://github.com/le-amaral/appcontador/blob/main/imagem/captura.png)
+![Vencedor](https://github.com/le-amaral/appcontador/blob/main/imagem/captura.png)
+![Empate](https://github.com/le-amaral/appcontador/blob/main/imagem/captura.png)
